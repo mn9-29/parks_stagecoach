@@ -6,7 +6,7 @@ Thank You Deccas88#6846 For Made this beautiful script
 
 
 ## 1. Requirements
-[qbr-core](https://github.com/qbcore-redm-framework/qbr-core)
+[qr-core](https://github.com/QRCore-RedM-Re/qr-core)
 
 ## 2. Installation
 - Clone/Extract parks_stagecoach into *your server*/server-data/resources/ 
